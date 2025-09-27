@@ -1,29 +1,33 @@
-# Android Basics with Compose – Practice Projects
+# Android Basics Collection
 
-This repository contains small projects built while working through the Android Basics with Compose course. Each app focuses on a different core concept in Jetpack Compose and Android development.
+Small Android app screens built following the Android Basics in Compose course - included are projects where I recreated the screens to develop understanding. 
+Focuses on key Android concepts: state management, navigation, layouts, lists, and input handling.
 
----
+## Projects
 
-## Lemonade App
-**Focus:** Working with observables, state, and recomposition.  
-
-- Used `mutableStateOf` to track UI state and trigger recomposition.  
-- Implemented buttons with click actions to progress through multiple UI states.  
-- Practiced **state hoisting** and basic UI interaction flows.
-  
-<img width="150" height="335" alt="image" src="https://github.com/user-attachments/assets/eb029800-534f-44bd-b5d2-9310e0f0c0ec" />
+- **Lemonade App** – state & image handling
+- **Tip Calculator** – input handling & calculations
+- **Thirty Days Recipes** – lists & layout practice
 
 ---
 
-## Tip Calculator
-**Focus:** Testing, extension functions, and state handling.  
+## Project Details
 
-- Wrote **unit tests** and **instrumentation tests** to validate UI and logic.  
-- Implemented **extension functions** for code clarity and reuse.  
-- Continued practice with **observables** (`mutableStateOf`) to drive UI updates.  
-- Explored the importance of separating **UI logic vs. business logic** for testability.
+### Lemonade App
+- Practiced observables and recomposition
+- Buttons triggering UI changes
+- Image handling from resources
+
+### Tip Calculator
+- Unit and instrumentation testing
+- Observables and extension functions
+- Input validation and formatting
+
+### Thirty Days Recipes
+- Animating list items and content size
+- LazyColumn and data-driven UI
+- MaterialTheme shapes and typography
 
 <img width="150" height="330" alt="image" src="https://github.com/user-attachments/assets/93160149-89fd-4f10-b86e-1aad02e7e575" />
 
-
----
+<img width="150" height="328" alt="image" src="https://github.com/user-attachments/assets/794021a7-12f4-49a7-8868-313971fc17da" />
