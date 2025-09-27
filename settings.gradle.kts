@@ -23,3 +23,4 @@ rootProject.name = "Android(Basics with Compose"
 include(":app")
 include(":lemonadeapp")
 include(":tipcalculator")
+include(":thirtydaysrecipes")

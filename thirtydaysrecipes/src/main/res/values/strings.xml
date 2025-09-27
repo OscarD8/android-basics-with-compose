@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">ThirtyDaysRecipes</string>
+    <string name="day_prompt">Day</string>
+    <string name="expandable_prompt">Click to expand or close recipe description</string>
+    <!-- Recipes for 30 Days of Cooking -->
+    <string name="recipe_name_1">Spaghetti Carbonara</string>
+    <string name="recipe_desc_1">Creamy pasta with eggs, Pecorino cheese, pancetta, and black pepper.</string>
+    <string name="recipe_country_1">Italy</string>
+    <string name="image_credit_1">Photo by Zoran Borojevic on Unsplash</string>
+
+    <string name="recipe_name_2">Pad Thai</string>
+    <string name="recipe_desc_2">Stir-fried rice noodles with tamarind sauce, peanuts, egg, and shrimp or tofu.</string>
+    <string name="recipe_country_2">Thailand</string>
+    <string name="image_credit_2">Photo by John Aledia on Unsplash</string>
+
+    <string name="recipe_name_3">Shakshuka</string>
+    <string name="recipe_desc_3">Eggs poached in a spicy tomato and pepper sauce, often served with bread.</string>
+    <string name="recipe_country_3">Tunisia</string>
+
+    <string name="recipe_name_4">Tacos al Pastor</string>
+    <string name="recipe_desc_4">Marinated pork sliced thin and grilled on a spit, served in soft corn tortillas.</string>
+    <string name="recipe_country_4">Mexico</string>
+
+    <string name="recipe_name_5">Chicken Tikka Masala</string>
+    <string name="recipe_desc_5">Grilled chicken in a creamy tomato curry sauce — a British-Indian classic.</string>
+    <string name="recipe_country_5">United Kingdom</string>
+
+    <string name="recipe_name_6">Jollof Rice</string>
+    <string name="recipe_desc_6">Spiced tomato-based rice with onions, bell peppers, and protein of choice.</string>
+    <string name="recipe_country_6">Nigeria</string>
+
+    <string name="recipe_name_7">Pho</string>
+    <string name="recipe_desc_7">Aromatic beef broth with rice noodles, herbs, and thinly sliced beef.</string>
+    <string name="recipe_country_7">Vietnam</string>
+
+    <string name="recipe_name_8">Croque Monsieur</string>
+    <string name="recipe_desc_8">A rich baked or fried ham and cheese sandwich with béchamel sauce.</string>
+    <string name="recipe_country_8">France</string>
+
+    <string name="recipe_name_9">Moussaka</string>
+    <string name="recipe_desc_9">Baked layers of eggplant, ground lamb, and creamy béchamel sauce.</string>
+    <string name="recipe_country_9">Greece</string>
+
+    <string name="recipe_name_10">Bulgogi</string>
+    <string name="recipe_desc_10">Thinly sliced marinated beef grilled or stir-fried with garlic and sesame.</string>
+    <string name="recipe_country_10">South Korea</string>
+
+    <string name="recipe_name_11">Ceviche</string>
+    <string name="recipe_desc_11">Raw fish marinated in lime juice with onions, cilantro, and chili.</string>
+    <string name="recipe_country_11">Peru</string>
+
+    <string name="recipe_name_12">Poutine</string>
+    <string name="recipe_desc_12">French fries topped with cheese curds and hot brown gravy.</string>
+    <string name="recipe_country_12">Canada</string>
+
+    <string name="recipe_name_13">Koshari</string>
+    <string name="recipe_desc_13">A mix of rice, lentils, pasta, chickpeas, and tomato sauce with crispy onions.</string>
+    <string name="recipe_country_13">Egypt</string>
+
+    <string name="recipe_name_14">Goulash</string>
+    <string name="recipe_desc_14">Hearty beef stew with paprika, onions, and potatoes.</string>
+    <string name="recipe_country_14">Hungary</string>
+
+    <string name="recipe_name_15">Ratatouille</string>
+    <string name="recipe_desc_15">A vegetable stew of zucchini, eggplant, tomatoes, and herbs.</string>
+    <string name="recipe_country_15">France</string>
+
+    <string name="recipe_name_16">Sushi Rolls</string>
+    <string name="recipe_desc_16">Seaweed-wrapped rice rolls with fillings like fish, cucumber, or avocado.</string>
+    <string name="recipe_country_16">Japan</string>
+
+    <string name="recipe_name_17">Pierogi</string>
+    <string name="recipe_desc_17">Dumplings stuffed with potato, cheese, or meat, often pan-fried.</string>
+    <string name="recipe_country_17">Poland</string>
+
+    <string name="recipe_name_18">Arepas</string>
+    <string name="recipe_desc_18">Cornmeal cakes filled with cheese, meats, or beans.</string>
+    <string name="recipe_country_18">Venezuela</string>
+
+    <string name="recipe_name_19">Laksa</string>
+    <string name="recipe_desc_19">Spicy coconut noodle soup with seafood or chicken.</string>
+    <string name="recipe_country_19">Malaysia</string>
+
+    <string name="recipe_name_20">Biryani</string>
+    <string name="recipe_desc_20">Layered rice dish with saffron, meat, fried onions, and spices.</string>
+    <string name="recipe_country_20">India</string>
+
+    <string name="recipe_name_21">Shepherd’s Pie</string>
+    <string name="recipe_desc_21">Ground meat topped with mashed potatoes and baked.</string>
+    <string name="recipe_country_21">Ireland</string>
+
+    <string name="recipe_name_22">Rendang</string>
+    <string name="recipe_desc_22">Slow-cooked beef in coconut milk and spices until tender and caramelized.</string>
+    <string name="recipe_country_22">Indonesia</string>
+
+    <string name="recipe_name_23">Churrasco with Chimichurri</string>
+    <string name="recipe_desc_23">Grilled steak served with a garlicky herb sauce.</string>
+    <string name="recipe_country_23">Argentina</string>
+
+    <string name="recipe_name_24">Beef Stroganoff</string>
+    <string name="recipe_desc_24">Sautéed beef with mushrooms in a sour cream sauce, served over noodles or rice.</string>
+    <string name="recipe_country_24">Russia</string>
+
+    <string name="recipe_name_25">Tom Kha Gai</string>
+    <string name="recipe_desc_25">Chicken coconut soup with galangal, lemongrass, and lime.</string>
+    <string name="recipe_country_25">Thailand</string>
+
+    <string name="recipe_name_26">Katsu Curry</string>
+    <string name="recipe_desc_26">Crispy breaded cutlet with a savory Japanese curry sauce over rice.</string>
+    <string name="recipe_country_26">Japan</string>
+
+    <string name="recipe_name_27">Baklava</string>
+    <string name="recipe_desc_27">Sweet layers of phyllo pastry, nuts, and syrup or honey.</string>
+    <string name="recipe_country_27">Turkey</string>
+
+    <string name="recipe_name_28">Sauerbraten</string>
+    <string name="recipe_desc_28">Marinated roast beef, slow-cooked and served with gravy.</string>
+    <string name="recipe_country_28">Germany</string>
+
+    <string name="recipe_name_29">Bibimbap</string>
+    <string name="recipe_desc_29">Rice bowl with veggies, meat, egg, and gochujang chili paste.</string>
+    <string name="recipe_country_29">South Korea</string>
+
+    <string name="recipe_name_30">Falafel and Hummus Plate</string>
+    <string name="recipe_desc_30">Crispy chickpea balls with creamy hummus, pita, and salad.</string>
+    <string name="recipe_country_30">Levant</string>
+
+    <string name="recipe_name_31">Golgappa</string>
+    <string name="recipe_desc_31">Indian street food that consists of a crispy, hollow, deep-fried puri filled with a mixture of mashed potatoes, chickpeas, raw onions, and spices, then soaked in a flavored water.</string>
+    <string name="recipe_country_31">India</string>
+    <string name="image_credit_31">Photo by Reubx on Unsplash</string>
+
+</resources>
